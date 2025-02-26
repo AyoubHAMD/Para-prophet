@@ -1,5 +1,7 @@
 
-# Prophet: Automatic Forecasting Procedure
+# Prophet: Automatic Forecasting Procedure (Array version)
+
+🚨 This version is to help forcast many KPIs at the same time 🚨
 
 ![Build](https://github.com/facebook/prophet/workflows/Build/badge.svg)
 
